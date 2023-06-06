@@ -11,8 +11,6 @@
 <br/><br/><br/>
 ![Screenshot_20230606-224719](https://github.com/Zaid-R/admin/assets/81107281/b5b3c809-3045-496c-b537-e490d0dfcc1f)
 <br/><br/><br/>
-![Screenshot_20230606-224744](https://github.com/Zaid-R/admin/assets/81107281/88ebdd7e-843a-4fd1-8b46-11da509a5e0f)
-<br/><br/><br/>
 ![Screenshot_20230606-224725](https://github.com/Zaid-R/admin/assets/81107281/696846d8-759a-4300-b480-7e298b08c01d)
 <br/><br/><br/>
 ![Screenshot_20230606-224802](https://github.com/Zaid-R/admin/assets/81107281/e470d577-3caa-4546-9b74-1aee13a91e9e)
