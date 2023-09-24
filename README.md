@@ -1,24 +1,4 @@
 # Admin app
-![Screenshot_20230606-224638](https://github.com/Zaid-R/admin/assets/81107281/93f2169d-8f2c-4fca-9a71-cd445c2caf00)
-<br/><br/><br/>
-![Screenshot_20230606-224700](https://github.com/Zaid-R/admin/assets/81107281/95e33513-5164-4110-aad5-0fb0629a0e5c)
-<br/><br/><br/>
-![Screenshot_20230606-224744](https://github.com/Zaid-R/admin/assets/81107281/091d47fd-25c6-4577-b18c-1a7601b8a80d)
-<br/><br/><br/>
-![Screenshot_20230606-224710](https://github.com/Zaid-R/admin/assets/81107281/aafab29b-e4e5-4500-8e50-09867988da7d)
-<br/><br/><br/>
-![Screenshot_20230606-224714](https://github.com/Zaid-R/admin/assets/81107281/fa38097d-f60a-4b4a-a68f-b3195629f1ae)
-<br/><br/><br/>
-![Screenshot_20230606-224719](https://github.com/Zaid-R/admin/assets/81107281/b5b3c809-3045-496c-b537-e490d0dfcc1f)
-<br/><br/><br/>
-![Screenshot_20230606-224725](https://github.com/Zaid-R/admin/assets/81107281/696846d8-759a-4300-b480-7e298b08c01d)
-<br/><br/><br/>
-![Screenshot_20230606-224802](https://github.com/Zaid-R/admin/assets/81107281/e470d577-3caa-4546-9b74-1aee13a91e9e)
-<br/><br/><br/>
-![Screenshot_20230606-224824](https://github.com/Zaid-R/admin/assets/81107281/18419b09-d776-4500-b955-66f2490425e1)
-<br/><br/><br/>
-![Screenshot_20230606-224752](https://github.com/Zaid-R/admin/assets/81107281/f6040a73-c179-44cc-b142-9c3a6b6bb658)
-<br/><br/><br/>
-![Screenshot_20230606-224733](https://github.com/Zaid-R/admin/assets/81107281/1dfaf3fd-8a8c-409a-8a09-8730bc33a8da)
-<br/><br/><br/>
-![Screenshot_20230606-224752](https://github.com/Zaid-R/admin/assets/81107281/3abcd605-4981-429e-b6eb-e197c2670676)
+
+Video shows how the app work:
+https://drive.google.com/file/d/1uRFVQfRMoFJL1pwyVNXzUBP0ra6r9DE6/view?usp=sharing
